@@ -1,0 +1,7 @@
+#include <vector>
+
+int main() {
+    std::vector<int> arr;
+    std::random_access_iterator_tag it;
+
+}
